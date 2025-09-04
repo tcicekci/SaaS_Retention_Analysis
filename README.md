@@ -44,4 +44,4 @@ Business Questions Answered:
     Open the scripts in the Code/ folder to view the cleaning processes and step-by-step analysis.
 
     Explore the dashboard:
-    [Tableau Public Link]([your_tableau_public_link_here](https://public.tableau.com/views/SaaSRetentionAnalysis/SaaSRetentionEngagementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+    [Tableau Public Link](https://public.tableau.com/views/SaaSRetentionAnalysis/SaaSRetentionEngagementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
